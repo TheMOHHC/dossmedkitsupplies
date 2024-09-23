@@ -1,0 +1,1 @@
+If you are replacing the sprite and loader with new images, open the photos in Photoshop and save over the file with the new images rather than adding the images to the main file and changing the names manually. 
